@@ -1,0 +1,5 @@
+{
+  "name": "MathVision AI",
+  "description": "An expert AI mathematical vision model that analyzes graph images to generate complete solution reports.",
+  "requestFramePermissions": []
+}
